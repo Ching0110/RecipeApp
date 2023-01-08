@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Food Recipe Application</string>
+
+    <string name="getRecipeType">Get Recipe Type</string>
+    <string name="addNewRecipe">Add New Recipe</string>
+    <string name="selectRecipeType">Please select a recipe type</string>
+
+    <string name="recipeName">Recipe Name</string>
+    <string name="recipeDes">Description</string>
+    <string name="recipeIng">Ingredients</string>
+    <string name="recipeSteps">Steps</string>
+    <string name="cancel">Cancel</string>
+    <string name="reqImg">Please upload recipe image</string>
+    <string name="reqName">Please write recipe name</string>
+    <string name="reqType">Please select recipe type</string>
+    <string name="reqDes">Please write recipe description</string>
+    <string name="reqIng">Please write recipe ingredients</string>
+    <string name="reqStep">Please write recipe steps</string>
+    <string name="addSucess">Recipe is added successfully</string>
+
+
+    <string name="recipeType">Recipe Type:</string>
+    <string name="editRecipe">Edit Recipe</string>
+    <string name="delRecipe">Delete Recipe</string>
+
+    <string name="diaDelete">Are You Sure To Delete This Recipe?</string>
+    <string name="diaYes">YES</string>
+    <string name="diaNo">NO</string>
+    <string name="updateSuccess">Recipe Updated Successfully</string>
+    <string name="delSuccess">Recipe is deleted successfully</string>
+
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
